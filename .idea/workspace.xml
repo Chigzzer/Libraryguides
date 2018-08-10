@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cd91eb9-4a23-4913-8297-d6621fc163ad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Library guides.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TinyDB_StarterGuide.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_guide.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging_guide.py" afterDir="false" />
-    </list>
+    <list default="true" id="6cd91eb9-4a23-4913-8297-d6621fc163ad" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +14,8 @@
       <file leaf-file-name="flask_guide.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flask_guide.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -59,8 +50,18 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Library guides" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Library guides" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Course" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -93,7 +94,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915397" visible="true" weight="0.24980484" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4980484" weight="0.32994923" />
@@ -107,17 +107,64 @@
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49882904" weight="0.3993232" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915397" visible="true" weight="0.24980484" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4980484" weight="0.32994923" />
+      <window_info anchor="bottom" x="0" y="247" width="1281" height="195" id="Run" order="2" sideWeight="0.5042935" side_tool="true" weight="0.31641287" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49960968" weight="0.32994923" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49882904" weight="0.3993232" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49882904" weight="0.31641287" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5019516" side_tool="true" weight="0.32994923" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49960968" weight="0.32994923" />
+      <window_info id="Favorites" order="2" sideWeight="0.500846" side_tool="true" weight="0.24980484" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49570647" weight="0.32994923" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/flask_guide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../flask app/vote_form_v2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_guide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../flask app/vote_form_v2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../flask app/vote_form_v2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/branch_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_guide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/flask_guide.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -133,8 +180,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flask_guide.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>

@@ -28,4 +28,5 @@ git pull  # Fetch and merge changes on the remote server to your working directo
 
 git merge <branchname>  # To merge a different branch into your active branch:
 
+git touch .gitignore  # creates an file, which you edit and add names to it for git to ignoe when adding/committing
 

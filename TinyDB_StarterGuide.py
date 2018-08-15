@@ -15,7 +15,7 @@ db.search(Car_colour.Count > 3)
 # can update database using .update function to your query.
 db.update({"Count": 4}, Car_colour.Colour == "Green")
 
-#Use .remove to remove a piece of document
+# Use .remove to remove a piece of document
 db.remove(Car_colour.Colour == "Green")
 
 
